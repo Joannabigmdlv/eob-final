@@ -1,1 +1,0 @@
-# History logger placeholder

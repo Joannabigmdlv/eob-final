@@ -1,1 +1,0 @@
-# Upload to S3 placeholder
